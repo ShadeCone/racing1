@@ -36,6 +36,5 @@ polygon = PackedVector2Array(475, 200, 394, 88, 365, 64, 337, 56, 301, 63, 236, 
 [node name="trackPath" type="Path2D" parent="." unique_id=1226063229]
 curve = SubResource("Curve2D_cb0s1")
 
-[node name="car" parent="." unique_id=1789891921 instance=ExtResource("2_a7tuf")]
-position = Vector2(506, 483)
-scale = Vector2(1.0999999, 1.0999999)
+[node name="car" parent="." unique_id=744393775 instance=ExtResource("2_a7tuf")]
+position = Vector2(126, 509)
